@@ -14,6 +14,7 @@ Google Font
 ![image](https://github.com/Abdirizak264/FAQ-Used-JavaScript/assets/115321486/1b27bef8-3b61-4106-90ab-ae7b9c63d207)
 
 # Set Up
-Clone This link: 
+Clone and then run your preferred browser
+Clone This link:    https://github.com/Abdirizak264/FAQ-Used-JavaScript.git
 
 
