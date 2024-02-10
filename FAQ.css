@@ -1,0 +1,73 @@
+/*Google fonts links*/
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@1,200&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Titillium Web', sans-serif;
+    background-color: rgb(69, 66, 66);
+    color: rgb(255, 255, 255);
+}
+
+.wrapper {
+    max-width: 50%;
+    margin: auto;  
+}
+
+h1,
+h3 {
+    margin: 2rem 0;
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+
+.accordion {
+    border: none;
+    outline: none;
+    background-color: rgb(69, 66, 66);
+    color: rgb(251, 252, 253);
+    cursor: pointer;
+    font-size: 1.2rem;
+    width: 100%;
+    padding: 0.5rem 2rem 0.5rem 10rem;
+    transition: 0.5s;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+}
+
+.accordion span {
+    font-size: 2rem;
+}
+
+.active,
+.accordion:hover{
+    background-color: rgb(59, 59, 63);
+}
+
+.answer {
+    padding: 0 2rem 2.5rem 2rem;
+    background-color: rgb(247, 247, 249);
+    overflow: hidden;
+    background-color: rgb(59, 59, 63);
+    display: none;
+    font-size: 3rem;
+}
+
+.answer p {
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+}
+
+.question {
+    width: 60%;
+    border-bottom: 1px solid rgb(33, 33, 43);
+    margin: 10px 20%;
+}
+
+.question.active {
+    border: none;
+}
