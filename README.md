@@ -5,8 +5,11 @@ https://abdirizak264.github.io/FAQ-Used-JavaScript/
 
 # Technologies Applied
 HTML
+
 CSS
+
 JavaScript
+
 Google Font
 
 # screen captured
@@ -15,6 +18,7 @@ Google Font
 
 # Set Up
 Clone and then run your preferred browser
+
 Clone This link:    https://github.com/Abdirizak264/FAQ-Used-JavaScript.git
 
 
