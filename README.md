@@ -1,7 +1,7 @@
 # FAQ-Used-JavaScript
 This application is about blockchain frequently asked questions. 
 # Preview Live
-
+https://abdirizak264.github.io/FAQ-Used-JavaScript/
 
 # Technologies Applied
 HTML
